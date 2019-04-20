@@ -1,7 +1,7 @@
 
-#Faker React Blog
+##Faker React Blog
 
-# <img src="./fakerblog.png">
+## <img src="./fakerblog.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
